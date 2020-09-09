@@ -25,7 +25,7 @@ The point of this project was to get better acquainted with MapKit and Core Loca
 
 
 ---
-<img src="https://i.imgur.com/CtHKRyZ.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/CtHKRyZ.png" alt="drawing" width="1000"/>
 <img src="https://i.imgur.com/zlfNuYj.png" alt="drawing" width="400"/>
 
 
