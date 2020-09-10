@@ -38,7 +38,7 @@ The point of this project was to get better acquainted with MapKit and Core Loca
 
 Reach out to me at one of the following places!
 
-- Website at <a " target="_blank">``</a>
+- Website at <a href="https://www.ybilyar.info" target="_blank">`www.ybiluyar.info`</a>
 - Instagram at <a href="https://www.instagram.com/y.bilyar/" target="_blank">`@y.bilyar`</a>
 
 
